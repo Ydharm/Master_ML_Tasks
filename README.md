@@ -55,7 +55,7 @@ extracted_invoices.csv
 ```
 
 Sample output screenshots/images are in:
-![Output 1](output_images/output1.png)
+![Output 1](output_images/output1.jpg)
 ![Output 2](output_images/output2.png)
 ![Output 3](output_images/output3.png)
 
