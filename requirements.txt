@@ -1,4 +1,6 @@
 streamlit
 pytesseract
-pdf2image
 Pillow
+pandas
+opencv-python
+matplotlib
